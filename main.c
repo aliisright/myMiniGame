@@ -1,11 +1,3 @@
-//
-//  main.c
-//  testOC
-//
-//  Created by Ali Hasan on 10/12/2017.
-//  Copyright © 2017 Ali's. All rights reserved.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
